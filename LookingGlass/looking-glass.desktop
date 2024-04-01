@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Looking Glass
+Comment=Launch Looking Glass client
+Exec=/bin/bash -c "cd ~/.local/bin/looking-glass/ && ./looking-glass-client.sh"
+Icon=~/.local/bin/looking-glass/looking-glass.png
+Terminal=false
+Categories=Utility;

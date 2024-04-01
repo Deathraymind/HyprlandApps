@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=ALVR
+Comment=Launches ADB and ALVR
+Exec=/bin/bash -c "cd ~/.local/bin/alvr/ && ./alvr.sh"
+Icon=~/.local/bin/alvr/alvr.png
+Terminal=false
+Categories=Utility;
